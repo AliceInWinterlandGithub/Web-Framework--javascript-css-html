@@ -1,0 +1,15 @@
+Web Framework
+==
+
+A framework and desktop in Javascript, CSS, and HTML.
+
+Application framework for self contained apps.
+
+    $ python3 -m http.server 10000
+
+Browse to http://localhost:10000.
+
+--
+Burton Samograd
+burtonjohnsamograd@protonmail.com
+2022
