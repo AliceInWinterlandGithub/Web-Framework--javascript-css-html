@@ -1,0 +1,16 @@
+{
+  "name": "sigil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sigil.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "readline-sync": "^1.4.5"
+  }
+}
